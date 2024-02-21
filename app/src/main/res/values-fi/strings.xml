@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoViewer</string>
+    <string name="exercise_2_3_photoviewer">Harjoitus 2.3 - kuvakaruselli</string>
+    <string name="imageNumber">Kuva %1\$s/%2\$s</string>
+    <string name="previous">Edellinen</string>
+    <string name="next">Seuraava</string>
+</resources>

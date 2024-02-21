@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoViewer</string>
+    <string name="exercise_2_3_photoviewer">Exercise 2.3 - PhotoViewer</string>
+    <string name="imageNumber">Image %1\$s/%2\$s</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
